@@ -49,30 +49,13 @@ El proyecto debe completarse en 3 semanas.
 
 ### Budget
 
-El presupuesto total es $.
+El presupuesto total es $0.
 
 ### Resources/Production
 
-Asegurar que haya suficiente personal y recursos asignados para manejar el aumento de la demanda de clientes y los cambios operacionales resultantes de la expansión del sitio web.
+
 
 ## Stakeholders
-
-Alinear a los empleados del directorio de la compañía que deben trabajar en este proyecto en la siguiente matriz de poder/interés.
-
-### Keep Satisfied (Low Interest, High Power)
-- Clio Mulch, Facility Manager
-- Mario Flint, Logistics Manager
-
-### Manage Closely (High Interest, High Power)
-- Melinda Greene, Owner, Operator
-- Rakhi Greene, Chief Operations Officer
-
-### Monitor (Low Interest, Low Power)
-- Facility workers (Dusty Brown, Jim Rock, Austin Slate)
-- Drivers (Christian Rose, Patricia Budd, Dwight Thorne)
-
-### Keep Informed (High Interest, Low Power)
-- Emily Loam, Web Developer
 
 ## Requerimientos Funcionales
 
