@@ -3,29 +3,24 @@
 # Project: Vehicle Insurance Claim
 
 ## Project Summary
-
 El proyecto se centra en la detección de fraude en seguros de vehículos, utilizando un conjunto de datos real proporcionado por Oracle, proveniente de una aseguradora en Estados Unidos. El fraude en seguros de vehículos incluye prácticas como la presentación de reclamos falsos o exagerados relacionados con daños materiales o lesiones personales tras un accidente.
 
-## Definición del problema de negocio
+### Definición del problema de negocio
 
 ### Main Goal
-
 El objetivo principal del proyecto es desarrollar y evaluar métodos de detección de fraude en reclamos de seguros de vehículos utilizando técnicas de ciencia de datos. La intención es identificar patrones fraudulentos en los datos proporcionados por una aseguradora de Estados Unidos para reducir las pérdidas financieras causadas por reclamos falsos o exagerados.
 
-### Question to be Resolved
-
+### Question to be Resolved 
 El problema a resolver es la identificación de reclamos fraudulentos en seguros de vehículos. El fraude en seguros de vehículos es una práctica común que implica la presentación de reclamos falsos o exagerados por daños a la propiedad o lesiones personales tras un accidente. Este tipo de fraude puede incluir accidentes simulados, el uso de pasajeros fantasma y reclamos exagerados por lesiones personales.
 
 ### Context
-
 El proyecto utiliza un conjunto de datos real proporcionado por Oracle, originario de una aseguradora en Estados Unidos. Estos datos han sido liberados con fines educativos y contienen información relevante para la detección de fraude en seguros de vehículos. El contexto del estudio implica entender las prácticas comunes de fraude y aplicar técnicas de análisis de datos y algoritmos de machine learning para identificar patrones que indiquen posibles actividades fraudulentas.
 
 ## Objetivos y métricas de desempeño
 
 ### Goal
-### Success Criteria
-
-#### Mejorar la Precisión en la Detección de Fraude
+#### Success Criteria
+**Mejorar la Precisión en la Detección de Fraude**
 
 Uno de los objetivos principales del proyecto es mejorar la precisión en la detección de reclamos de seguros fraudulentos. Identificar correctamente los reclamos fraudulentos ayudará a la compañía de seguros a minimizar las pérdidas financieras y garantizar que los reclamantes legítimos sean compensados adecuadamente.
 
@@ -33,7 +28,7 @@ Uno de los objetivos principales del proyecto es mejorar la precisión en la det
 - **Recall (Sensibilidad):** La proporción de reclamos fraudulentos correctamente identificados sobre el total de reclamos realmente fraudulentos. Un alto recall indica una baja tasa de falsos negativos.
 - **F1 Score:** La media armónica de precisión y recall, proporcionando una métrica única que equilibra tanto los falsos positivos como los falsos negativos.
 
-#### Identificar las Características Más Relevantes para la Detección de Fraude
+**Identificar las Características Más Relevantes para la Detección de Fraude**
 
 Otro objetivo es identificar y comprender las características más importantes que contribuyen a la detección de fraude. Esto no solo ayuda a mejorar la precisión del modelo, sino que también proporciona información valiosa a los analistas de fraude sobre los factores que más influyen en la identificación de actividades fraudulentas.
 
@@ -41,21 +36,18 @@ Otro objetivo es identificar y comprender las características más importantes 
 - **SHAP Values (Shapley Additive Explanations):** Utilizar SHAP values para obtener una comprensión detallada del impacto de cada característica en las predicciones del modelo.
 - **Reducción de la Dimensionalidad:** Evaluar la precisión del modelo después de reducir el número de características utilizando técnicas como PCA (Análisis de Componentes Principales) o selección de características, para verificar que el modelo se mantenga preciso con un conjunto de características más pequeño y relevante.
 
-## Constraints
+### Constraints
 
-### Timeline
-
+#### Timeline
 El proyecto debe completarse en 3 semanas.
 
-### Budget
+#### Budget
+El presupuesto total es de \$ 0 US
 
-El presupuesto total es $0.
+### Stakeholders
 
-### Resources/Production
-
-
-
-## Stakeholders
+- **Manage Closely (High Interest, High Power)**
+  - Pablo Roblesh,Pablo López S16-11-N-Python-React (TL), Facility Manager
 
 ## Requerimientos Funcionales
 
@@ -86,14 +78,22 @@ El presupuesto total es $0.
 
 6. **Documentación y Comunicación**
    - **Documentación del Proceso:** Mantener una documentación detallada del proceso de análisis, desde la ingesta de datos hasta la evaluación del modelo.
-   - **Informes y
-  
-   - Entregables Específicos del Analista de Datos:
+   - **Informes y Presentaciones:** Preparar informes y presentaciones que resuman los hallazgos del análisis y los resultados del modelo.
+
+### Habilidades y Herramientas Necesarias
+- **Lenguajes de Programación:** Python y/o R para análisis de datos y machine learning.
+- **Bibliotecas y Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn para el análisis y visualización de datos; TensorFlow o PyTorch (opcional) para modelos avanzados de machine learning.
+- **Herramientas de Visualización:** Tableau, Power BI u otras herramientas de visualización de datos.
+- **Bases de Datos:** SQL para la consulta y manipulación de datos.
+- **Conocimientos de Estadística:** Fundamentos de estadística y probabilidad.
+- **Comunicación:** Habilidades para comunicar resultados complejos de manera clara y concisa tanto a audiencias técnicas como no técnicas.
+
+### Entregables Específicos del Proyecto
 1. **Informes de Análisis Exploratorio de Datos (EDA)**
 2. **Modelos de Machine Learning entrenados y evaluados**
 3. **Métricas de Evaluación y Matrices de Confusión**
 4. **Reportes de Importancia de Características y SHAP Values**
 5. **Documentación Detallada del Proceso**
 6. **Informes y Presentaciones Ejecutivas**
-
+```
 
