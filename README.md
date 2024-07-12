@@ -87,4 +87,13 @@ El presupuesto total es $0.
 6. **Documentación y Comunicación**
    - **Documentación del Proceso:** Mantener una documentación detallada del proceso de análisis, desde la ingesta de datos hasta la evaluación del modelo.
    - **Informes y
+  
+   - Entregables Específicos del Analista de Datos:
+1. **Informes de Análisis Exploratorio de Datos (EDA)**
+2. **Modelos de Machine Learning entrenados y evaluados**
+3. **Métricas de Evaluación y Matrices de Confusión**
+4. **Reportes de Importancia de Características y SHAP Values**
+5. **Documentación Detallada del Proceso**
+6. **Informes y Presentaciones Ejecutivas**
+
 
