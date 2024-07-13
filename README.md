@@ -13,6 +13,23 @@ El objetivo principal del proyecto es desarrollar y evaluar métodos de detecci�
 ### Question to be Resolved 
 El problema a resolver es la identificación de reclamos fraudulentos en seguros de vehículos. El fraude en seguros de vehículos es una práctica común que implica la presentación de reclamos falsos o exagerados por daños a la propiedad o lesiones personales tras un accidente. Este tipo de fraude puede incluir accidentes simulados, el uso de pasajeros fantasma y reclamos exagerados por lesiones personales.
 
+### Habilidades y Herramientas Necesarias
+- **Lenguajes de Programación:** Python y/o R para análisis de datos y machine learning.
+- **Bibliotecas y Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn para el análisis y visualización de datos; TensorFlow o PyTorch (opcional) para modelos avanzados de machine learning.
+- **Herramientas de Visualización:** Tableau, u otras herramientas de visualización de datos.
+- **Bases de Datos:** SQL para la consulta y manipulación de datos.
+- **Conocimientos de Estadística:** Fundamentos de estadística y probabilidad.
+- **Comunicación:** Habilidades para comunicar resultados complejos de manera clara y concisa tanto a audiencias técnicas como no técnicas.
+
+### Entregables Específicos del Proyecto
+1. **Informes de Análisis Exploratorio de Datos (EDA)**
+2. **Modelos de Machine Learning entrenados y evaluados**
+3. **Métricas de Evaluación y Matrices de Confusión**
+4. **Reportes de Importancia de Características y SHAP Values**
+5. **Documentación Detallada del Proceso**
+6. **Informes y Presentaciones Ejecutivas**
+```
+
 ### Context
 El proyecto utiliza un conjunto de datos real proporcionado por Oracle, originario de una aseguradora en Estados Unidos. Estos datos han sido liberados con fines educativos y contienen información relevante para la detección de fraude en seguros de vehículos. El contexto del estudio implica entender las prácticas comunes de fraude y aplicar técnicas de análisis de datos y algoritmos de machine learning para identificar patrones que indiquen posibles actividades fraudulentas.
 
@@ -79,21 +96,4 @@ El presupuesto total es de \$ 0 US
 6. **Documentación y Comunicación**
    - **Documentación del Proceso:** Mantener una documentación detallada del proceso de análisis, desde la ingesta de datos hasta la evaluación del modelo.
    - **Informes y Presentaciones:** Preparar informes y presentaciones que resuman los hallazgos del análisis y los resultados del modelo.
-
-### Habilidades y Herramientas Necesarias
-- **Lenguajes de Programación:** Python y/o R para análisis de datos y machine learning.
-- **Bibliotecas y Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn para el análisis y visualización de datos; TensorFlow o PyTorch (opcional) para modelos avanzados de machine learning.
-- **Herramientas de Visualización:** Tableau, Power BI u otras herramientas de visualización de datos.
-- **Bases de Datos:** SQL para la consulta y manipulación de datos.
-- **Conocimientos de Estadística:** Fundamentos de estadística y probabilidad.
-- **Comunicación:** Habilidades para comunicar resultados complejos de manera clara y concisa tanto a audiencias técnicas como no técnicas.
-
-### Entregables Específicos del Proyecto
-1. **Informes de Análisis Exploratorio de Datos (EDA)**
-2. **Modelos de Machine Learning entrenados y evaluados**
-3. **Métricas de Evaluación y Matrices de Confusión**
-4. **Reportes de Importancia de Características y SHAP Values**
-5. **Documentación Detallada del Proceso**
-6. **Informes y Presentaciones Ejecutivas**
-```
 
