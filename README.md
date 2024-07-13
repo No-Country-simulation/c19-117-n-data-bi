@@ -22,12 +22,12 @@ El problema a resolver es la identificación de reclamos fraudulentos en seguros
 - **Comunicación:** Habilidades para comunicar resultados complejos de manera clara y concisa tanto a audiencias técnicas como no técnicas.
 
 ### Entregables Específicos del Proyecto
-1. **Informes de Análisis Exploratorio de Datos (EDA)**
-2. **Modelos de Machine Learning entrenados y evaluados**
-3. **Métricas de Evaluación y Matrices de Confusión**
-4. **Reportes de Importancia de Características y SHAP Values**
-5. **Documentación Detallada del Proceso**
-6. **Informes y Presentaciones Ejecutivas**
+1. ✅**Informes de Análisis Exploratorio de Datos (EDA)**
+2. ✅**Modelos de Machine Learning entrenados y evaluados**
+3. ✅**Métricas de Evaluación y Matrices de Confusión**
+4. ✅**Reportes de Importancia de Características y SHAP Values**
+5. ✅**Documentación Detallada del Proceso**
+6. ✅**Informes y Presentaciones Ejecutivas**
 
 ### Context
 El proyecto utiliza un conjunto de datos real proporcionado por Oracle, originario de una aseguradora en Estados Unidos. Estos datos han sido liberados con fines educativos y contienen información relevante para la detección de fraude en seguros de vehículos. El contexto del estudio implica entender las prácticas comunes de fraude y aplicar técnicas de análisis de datos y algoritmos de machine learning para identificar patrones que indiquen posibles actividades fraudulentas.
