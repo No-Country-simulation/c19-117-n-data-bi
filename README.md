@@ -28,7 +28,6 @@ El problema a resolver es la identificación de reclamos fraudulentos en seguros
 4. **Reportes de Importancia de Características y SHAP Values**
 5. **Documentación Detallada del Proceso**
 6. **Informes y Presentaciones Ejecutivas**
-```
 
 ### Context
 El proyecto utiliza un conjunto de datos real proporcionado por Oracle, originario de una aseguradora en Estados Unidos. Estos datos han sido liberados con fines educativos y contienen información relevante para la detección de fraude en seguros de vehículos. El contexto del estudio implica entender las prácticas comunes de fraude y aplicar técnicas de análisis de datos y algoritmos de machine learning para identificar patrones que indiquen posibles actividades fraudulentas.
