@@ -14,8 +14,8 @@ El objetivo principal del proyecto es desarrollar y evaluar métodos de detecci�
 El problema a resolver es la identificación de reclamos fraudulentos en seguros de vehículos. El fraude en seguros de vehículos es una práctica común que implica la presentación de reclamos falsos o exagerados por daños a la propiedad o lesiones personales tras un accidente. Este tipo de fraude puede incluir accidentes simulados, el uso de pasajeros fantasma y reclamos exagerados por lesiones personales.
 
 ### Habilidades y Herramientas Necesarias
-- **Lenguajes de Programación:** Python y/o R para análisis de datos y machine learning.
-- **Bibliotecas y Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn para el análisis y visualización de datos; TensorFlow o PyTorch (opcional) para modelos avanzados de machine learning.
+- **Lenguajes de Programación:** Python para análisis de datos y machine learning.
+- **Bibliotecas y Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn para el análisis y visualización de datos.
 - **Herramientas de Visualización:** Tableau, u otras herramientas de visualización de datos.
 - **Bases de Datos:** SQL para la consulta y manipulación de datos.
 - **Conocimientos de Estadística:** Fundamentos de estadística y probabilidad.
