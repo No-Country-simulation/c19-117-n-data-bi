@@ -22,11 +22,11 @@ El problema a resolver es la identificación de reclamos fraudulentos en seguros
 - **Comunicación:** Habilidades para comunicar resultados complejos de manera clara y concisa tanto a audiencias técnicas como no técnicas.
 
 ### Entregables Específicos del Proyecto
-1. ✅Informes de Análisis Exploratorio de Datos (EDA)
-2. ✅Modelos de Machine Learning entrenados y evaluados
-3. ✅Métricas de Evaluación y Matrices de Confusión
-4. ✅Reportes de Importancia de Características y SHAP Values
-5. ✅Documentación Detallada del Proceso
+1. ✅Informes de Análisis Exploratorio de Datos (EDA) Documento 1
+2. ✅Modelos de Machine Learning entrenados y evaluados Documento 2
+3. ✅Métricas de Evaluación y Matrices de Confusión Documento 3
+4. ✅Reportes de Importancia de Características y SHAP Values Documento 4
+5. ✅Documentación Detallada del Proceso Documento 5 / ipnyb
 6. ✅Informes y Presentaciones Ejecutivas/ Dashboard
 
 ### Context
