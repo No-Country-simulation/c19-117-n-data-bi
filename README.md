@@ -7,6 +7,8 @@ El proyecto se centra en la detección de fraude en seguros de vehículos, utili
 
 link de acceso a presentacion en tableu-> https://public.tableau.com/app/profile/juan.felipe116/viz/ProjectVehicleInsuraceClaimNoCountry/Story1?publish=yes
 
+link de acceso de entorno colab->https://colab.research.google.com/drive/1xPsdH56G_hoi9MMGB2pSl6rKMC69PhzC#scrollTo=0CFH-bWL5_6V
+
 ### Definición del problema de negocio
 
 ### Main Goal
